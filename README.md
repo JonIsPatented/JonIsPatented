@@ -1,7 +1,10 @@
 ## Hello, World! 👋
+- Teaching Assistant at Wright State University
+- B.S. Computer Science 
 
-Teaching Assistant at Wright State University
-B.S. Computer Science 
+### Current Projects
+- GrumpyChef: Collaborative Grocery List Application
+- JAKL Compiler: A Revolutionary New Procedural/Declarative Language
 
 <!--
 **JonIsPatented/JonIsPatented** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
