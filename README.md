@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, World! 👋
+
+Teaching Assistant at Wright State University
+B.S. Computer Science 
 
 <!--
 **JonIsPatented/JonIsPatented** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
